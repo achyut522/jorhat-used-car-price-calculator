@@ -1,0 +1,437 @@
+{
+  "models": [
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Alto"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Alto K10"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "WagonR"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Celerio"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Swift"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Dzire"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Baleno"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Brezza"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Ertiga"
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Eeco"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Grand i10"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "i10"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "i20"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Venue"
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Creta"
+    },
+    {
+      "brand": "Tata",
+      "model": "Tiago"
+    },
+    {
+      "brand": "Tata",
+      "model": "Tigor"
+    },
+    {
+      "brand": "Tata",
+      "model": "Altroz"
+    },
+    {
+      "brand": "Tata",
+      "model": "Nexon"
+    },
+    {
+      "brand": "Honda",
+      "model": "Amaze"
+    },
+    {
+      "brand": "Honda",
+      "model": "City"
+    },
+    {
+      "brand": "Renault",
+      "model": "Kwid"
+    },
+    {
+      "brand": "Renault",
+      "model": "Triber"
+    },
+    {
+      "brand": "Mahindra",
+      "model": "Bolero"
+    },
+    {
+      "brand": "Toyota",
+      "model": "Innova"
+    }
+  ],
+  "records": [
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2013,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 86000,
+      "owners": 1,
+      "askingPrice": 300000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2017,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 80000,
+      "owners": 2,
+      "askingPrice": 320000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2019,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "km": 60000,
+      "owners": 1,
+      "askingPrice": 440000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2020,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 88000,
+      "owners": 1,
+      "askingPrice": 538000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2022,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 60000,
+      "owners": 1,
+      "askingPrice": 520000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2022,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "km": 56000,
+      "owners": 1,
+      "askingPrice": 550000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Honda",
+      "model": "Amaze",
+      "year": 2017,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 37000,
+      "owners": 1,
+      "askingPrice": 400000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; two similar listings were observed."
+    },
+    {
+      "brand": "Honda",
+      "model": "Amaze",
+      "year": 2017,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 36000,
+      "owners": 1,
+      "askingPrice": 400000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; two similar listings were observed."
+    },
+    {
+      "brand": "Honda",
+      "model": "City",
+      "year": 2017,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "km": 83000,
+      "owners": 3,
+      "askingPrice": 620000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Honda",
+      "model": "City",
+      "year": 2022,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "km": 21000,
+      "owners": 1,
+      "askingPrice": 1150000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarDekho Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Creta",
+      "year": 2016,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 60000,
+      "owners": 2,
+      "askingPrice": 525000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Transmission was not consistently confirmed; treat as lower-confidence record."
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Creta",
+      "year": 2020,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "km": 64000,
+      "owners": 1,
+      "askingPrice": 795000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify trim and transmission before relying on comparison."
+    },
+    {
+      "brand": "Hyundai",
+      "model": "Creta",
+      "year": 2024,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 14000,
+      "owners": 1,
+      "askingPrice": 1200000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify trim and transmission before relying on comparison."
+    },
+    {
+      "brand": "Tata",
+      "model": "Tiago",
+      "year": 2022,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 45000,
+      "owners": 1,
+      "askingPrice": 440000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "CarWale Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Tata",
+      "model": "Tiago",
+      "year": 2017,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 110000,
+      "owners": 1,
+      "askingPrice": 260000,
+      "location": "Dibrugarh",
+      "locationScope": "regional",
+      "source": "Regional listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Regional reference only; not a Jorhat listing."
+    },
+    {
+      "brand": "Tata",
+      "model": "Nexon",
+      "year": 2022,
+      "fuel": "Petrol",
+      "transmission": "Automatic",
+      "km": 42000,
+      "owners": 1,
+      "askingPrice": 700000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Owner count is assumed for initial dataset; confirm before use."
+    },
+    {
+      "brand": "Mahindra",
+      "model": "Bolero",
+      "year": 2015,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "km": 101000,
+      "owners": 1,
+      "askingPrice": 480000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Mahindra",
+      "model": "Bolero",
+      "year": 2021,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "km": 90000,
+      "owners": 1,
+      "askingPrice": 650000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Mahindra",
+      "model": "Bolero",
+      "year": 2021,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "km": 66000,
+      "owners": 2,
+      "askingPrice": 600000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Toyota",
+      "model": "Innova",
+      "year": 2014,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "km": 160000,
+      "owners": 3,
+      "askingPrice": 400000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Toyota",
+      "model": "Innova",
+      "year": 2012,
+      "fuel": "Diesel",
+      "transmission": "Manual",
+      "km": 90000,
+      "owners": 1,
+      "askingPrice": 330000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "Asking price; verify listing is still active."
+    },
+    {
+      "brand": "Maruti Suzuki",
+      "model": "Dzire",
+      "year": 2024,
+      "fuel": "Petrol",
+      "transmission": "Manual",
+      "km": 120000,
+      "owners": 1,
+      "askingPrice": 600000,
+      "location": "Jorhat",
+      "locationScope": "jorhat",
+      "source": "Jorhat listing snapshot",
+      "observedOn": "2026-08",
+      "note": "High mileage for age; verify details and listing."
+    }
+  ],
+  "disclaimer": "These are observed asking-price snapshots, not verified sale prices or official valuations. Records need regular checking and may be outdated. Do not present them as guaranteed values."
+}

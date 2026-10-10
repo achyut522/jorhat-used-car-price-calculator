@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Estimate a used car's asking-price range using available Jorhat, Assam listing comparisons.">
+  <title>Jorhat Used Car Price Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">USED CARS IN JORHAT · ASSAM</p>
+      <h1>Used Car Price Calculator</h1>
+      <p class="sub">Get a cautious estimate based on available listing comparisons. This is a guide, not a dealer quote or guaranteed sale value.</p>
+    </div>
+  </header>
+
+  <main class="wrap main-grid">
+    <section class="panel">
+      <h2>Enter car details</h2>
+      <form id="car-form">
+        <div class="form-grid">
+          <label>Brand
+            <select id="brand" required></select>
+          </label>
+          <label>Model
+            <select id="model" required></select>
+          </label>
+          <label>Registration year
+            <input id="year" type="number" min="1990" required>
+          </label>
+          <label>Fuel type
+            <select id="fuel" required>
+              <option>Petrol</option><option>Diesel</option><option>CNG</option><option>Electric</option>
+            </select>
+          </label>
+          <label>Transmission
+            <select id="transmission" required>
+              <option>Manual</option><option>Automatic</option><option>AMT</option><option>CVT</option><option>DCT</option>
+            </select>
+          </label>
+          <label>Kilometres driven
+            <input id="km" type="number" min="0" step="1000" placeholder="e.g. 65000" required>
+          </label>
+          <label>Number of owners
+            <select id="owners" required>
+              <option value="1">1st owner</option><option value="2">2nd owner</option><option value="3">3rd owner</option><option value="4">4 or more</option>
+            </select>
+          </label>
+          <label>Overall condition
+            <select id="condition" required>
+              <option value="excellent">Excellent</option><option value="good" selected>Good</option><option value="average">Average</option><option value="poor">Poor</option>
+            </select>
+          </label>
+          <label>Accident history
+            <select id="accident" required>
+              <option value="none">No major accident</option><option value="minor">Minor accident</option><option value="major">Major accident</option><option value="unknown">Unknown</option>
+            </select>
+          </label>
+          <label>Service history
+            <select id="service" required>
+              <option value="complete">Complete</option><option value="partial" selected>Partial</option><option value="none">No records</option><option value="unknown">Unknown</option>
+            </select>
+          </label>
+        </div>
+        <button type="submit" class="primary">Estimate price</button>
+      </form>
+    </section>
+
+    <section class="panel results" id="results" aria-live="polite">
+      <div class="empty-state">
+        <div class="car-icon">₹</div>
+        <h2>Your estimate will appear here</h2>
+        <p>Choose the vehicle details and select <strong>Estimate price</strong>. The tool will explain whether enough comparable data is available.</p>
+      </div>
+    </section>
+  </main>
+
+  <section class="wrap notes">
+    <h2>How to use this estimate</h2>
+    <div class="note-grid">
+      <article><h3>Compare like with like</h3><p>Trim, variant, city, service records, tyre condition, insurance, and ownership documents can materially change a car's value.</p></article>
+      <article><h3>Asking price is not sale price</h3><p>Listings show what sellers ask. The final negotiated price may be lower or higher depending on inspection and demand.</p></article>
+      <article><h3>Inspect before paying</h3><p>Check RC, pending loans, challans, insurance, service records, accident repairs, and get an independent mechanic's inspection.</p></article>
+    </div>
+    <p class="disclaimer" id="data-note">Loading dataset note…</p>
+  </section>
+  <footer><div class="wrap">Made for the Jorhat used-car market · <span id="year-now"></span></div></footer>
+  <script src="calculator.js"></script>
+</body>
+</html>
